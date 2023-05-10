@@ -15,7 +15,7 @@ Currently, only the old 32px variants are included in these cursor packs.
  3. Choose a cursor pack inside the *cursors* folder (you can preview them on GitHub itself by opening the folder here and scrolling down)
  4. Copy these files to YoloMouse in its *Cursors* folder (e.g. `C:\Program Files\YoloMouse\Cursors`)
  5. Restart YoloMouse and Guild Wars 2 if needed
- 6. Assign the cursors to each in-game cursor by using `Ctrl + Alt + Shift + <NUM>`, where `<NUM>` is 4 for cursors in the 30-39 range, 5 for cursors in the 40-49 range, etc.; keep pressing the same key combination to cycle through the cursors in a range
+ 6. Assign the cursors to each in-game cursor by using `Ctrl + Alt + <NUM>`, where `<NUM>` is 4 for cursors in the 30-39 range, 5 for cursors in the 40-49 range, etc.; keep pressing the same key combination to cycle through the cursors in a range
 
 ## Creating your own cursors
 If you want, you can create your own pack by taking the images from the *originals* folder.
@@ -31,13 +31,13 @@ If you have created your own cursor pack, please share them by submitting a pull
 
 - *I can't assign any cursors in the 64-bit client, how can I get YoloMouse to work?*  
   Apparently there seems to be an issue for some people that can't get the cursors to work in the 64-bit client.
-  As mentioned in [this reddit post](https://www.reddit.com/r/Guildwars2/comments/3xlakx/customized_guild_wars_2_cursors_for_yolomouse/cy5sfos?context=10000), you can solve this issue by hovering over the patcher window, and pressing `Ctrl + Alt + Shift + 1`.
+  As mentioned in [this reddit post](https://www.reddit.com/r/Guildwars2/comments/3xlakx/customized_guild_wars_2_cursors_for_yolomouse/cy5sfos?context=10000), you can solve this issue by hovering over the patcher window, and pressing `Ctrl + Alt + 1`.
   After the game has started up, repeat this.
   You can now assign the custom cursors to the Guild Wars 2 cursors.
 
 - *The cursor size doesn't match the original Guild Wars 2 ones, or look blurry or pixelated*  
   If this happens, then it's possible that the cursor size is not configured properly.
-  To solve this, scale the cursor up or down until it looks alright by using  `Ctrl + Alt + Shift + -` or `Ctrl + Alt + Shift + +` respectively.
+  To solve this, scale the cursor up or down until it looks alright by using  `Ctrl + Alt + -` or `Ctrl + Alt + +` respectively.
 
 - *I still don't know what's going on* 😕  
   WoodenPotatoes has made a great [YouTube video](https://www.youtube.com/watch?v=1W6dSRh2axY) about YoloMouse and these cursors
